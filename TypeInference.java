@@ -1,7 +1,7 @@
-package com.wiprotraining;
+package wiprotraining;
 
 public class TypeInference {
-	
+		
 	    public static void main(String[] args) {
 	        // Using var for different types
 	        var message = "Hello, Java 10!"; // Inferred as String
@@ -44,5 +44,3 @@ public class TypeInference {
 	        return "Name: " + name + ", Age: " + age;
 	    }
 	}
-
-
